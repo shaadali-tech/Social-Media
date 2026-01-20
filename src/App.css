@@ -27,3 +27,14 @@
   margin-top: 50px;
   margin-left: 10%;
 }
+
+.welcome-message {
+  text-align: center;
+  margin-top: 50px;
+  color: #333;
+}
+
+.spinner {
+  text-align: center;
+  margin-top: 100px;
+}
